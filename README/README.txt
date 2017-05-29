@@ -1,1 +1,1 @@
-Version 2 du fichier README.
+Version 2.1 du fichier README.
